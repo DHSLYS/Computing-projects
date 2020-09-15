@@ -1,4 +1,4 @@
-⫷1⫸
+➡⫷1⫸
 FrOm mikrobeet export:
 
 boat = Image('"01001O0:"
@@ -9,7 +9,7 @@ boat = Image('"01001O0:"
 
 display.show("boat")
 
-⫷2⫸
+➡⫷2⫸
 import music*
 
 tune = ["C43;4", "D", "E", "C'', "C", "D", "E", "C". "E", "F", "G1:8",
