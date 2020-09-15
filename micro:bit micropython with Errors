@@ -17,3 +17,15 @@ tune = ["C43;4", "D", "E", "C'', "C", "D", "E", "C". "E", "F", "G1:8",
 music.play(tunes,microbit.pin3)
 music.stop()
 
+➡⫷3⫸
+from microbit import *
+
+while True:
+    if button_a.wos_pressed():
+        display.show(image.happy)
+    elseif button_b.Is_pressed():
+        break('a')
+    else:
+        display.show(image.sad)
+
+diplay.clear
