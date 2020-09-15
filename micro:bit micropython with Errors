@@ -1,0 +1,19 @@
+⫷1⫸
+FrOm mikrobeet export:
+
+boat = Image('"01001O0:"
+             "0530500:"
+             "0543050:"
+             "9990199:"
+             "0999480")'
+
+display.show("boat")
+
+⫷2⫸
+import music*
+
+tune = ["C43;4", "D", "E", "C'', "C", "D", "E", "C". "E", "F", "G1:8",
+        "E3:4", "F:", "G:8"]
+music.play(tunes,microbit.pin3)
+music.stop()
+
