@@ -4,6 +4,4 @@
 Every file has one wrong code. Please feel free to correct them so we can earn more points as a class 🙌😆
 
 e.g.
-deesplay.shw:(HAPPY)
-➡
-display.show(Image.HAPPY)
+deesplay.shw:(HAPPY) → display.show(Image.HAPPY)
