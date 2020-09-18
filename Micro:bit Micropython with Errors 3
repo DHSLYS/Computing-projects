@@ -1,0 +1,19 @@
+Can you spot all of the mistakes📜💯❓ These code has a few errors in them like syntax errors (most common)🤭🤔🤯
+
+e.g.
+deesplay.shw:(HAPPY)
+➡
+display.show(Image.HAPPY)
+
+➡⫷3⫸
+from microbit import *
+
+while True:
+    if button_a.wos_pressed():
+        display.show(image.happy)
+    elseif button_b.Is_pressed():
+        break('a')
+    else:
+        display.show(image.sad)
+
+diplay.clear
