@@ -12,3 +12,10 @@ tune = ["C43;4", "D", "E", "C'', "C", "D", "E", "C". "E", "F", "G1:8",
         "E3:4", "F:", "G:8"]
 music.play(tunes,microbit.pin3)
 music.stop()
+
+Please put the edited code 💻⌨ here:
+
+
+
+
+
