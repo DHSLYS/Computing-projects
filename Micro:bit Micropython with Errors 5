@@ -6,6 +6,7 @@ deesplay.shw:(HAPPY)
 display.show(Image.HAPPY)
 
 ➡⫷5⫸
+Warning: you need extra knowledge
 Are there any mistakes in here?😕🤨They all are existing pins and there are no syntax errors (Not lying!)
 
 from microbit import *
