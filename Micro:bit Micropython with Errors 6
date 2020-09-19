@@ -1,0 +1,51 @@
+Can you spot all of the mistakes📜💯❓ These code has a few errors in them like syntax errors (most common)🤭🤔🤯
+
+e.g.
+deesplay.shw:(HAPPY)
+➡
+display.show(Image.HAPPY)
+
+➡⫷3⫸
+Warning: Need advanced knowledge on pins
+✨✴✳***This code is used to let all of the LED lights be on while using pins 3-4, 6-7 and 9-10 to connect to external devices. Will it work?***✳✴✨
+
+
+from microbit import *
+
+while True:
+  display.show(image)
+  image = Image("99999:"
+                "99999:"
+                "99999:"
+                "99999:"
+                "99999")
+while True:
+    pin3.write_digital(1)
+    sleep(100)
+    pin3.write_digital(0)
+    pin4.write_digital(1)
+    sleep(100)
+    pin4.write_digital(0)
+    pin6.write_digital(1)
+    sleep(100)
+    pin6.write_digital(0)
+    pin7.write_digital(1)
+    sleep(100)
+    pin7.write_digital(0)
+    pin9.write_digital(1)
+    sleep(100)
+    pin9.write_digital(0)
+    pin10.write_digital(1)
+    sleep(100)
+    pin10.write_digital(0)
+    
+    What is this even about⁉😱🤯
+    
+    Please put the edited code 💻⌨ here:
+
+
+
+
+
+
+
