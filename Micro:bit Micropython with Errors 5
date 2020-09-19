@@ -6,13 +6,14 @@ deesplay.shw:(HAPPY)
 display.show(Image.HAPPY)
 
 ➡⫷5⫸
-Are there any mistakes in here?😕🤨
+Are there any mistakes in here?😕🤨They all are existing pins and there are no syntax errors (Not lying!)
+
 from microbit import *
 
 while True:
-    pin23.write_digital(1)
+    pin22.write_digital(1)
     sleep(21)
-    pin23.write_digital(0)
+    pin22.write_digital(0)
     sleep(100)
     pin21.write_digital(1)
     sleep(240)
