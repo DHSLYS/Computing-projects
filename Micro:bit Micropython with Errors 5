@@ -1,0 +1,23 @@
+Can you spot all of the mistakes📜💯❓ These code has a few errors in them like syntax errors (most common)🤭🤔🤯
+
+e.g.
+deesplay.shw:(HAPPY)
+➡
+display.show(Image.HAPPY)
+
+➡⫷5⫸
+Are there any mistakes in here?😕
+from microbit import *
+
+while True:
+    pin23.write_digital(1)
+    sleep(21)
+    pin23.write_digital(0)
+    sleep(100)
+    pin21.write_digital(1)
+    sleep(240)
+    pin21.write_digital(0)
+    pin17.write_digital(1)
+    sleep(549)
+    pin17.write_digital(0)
+    
