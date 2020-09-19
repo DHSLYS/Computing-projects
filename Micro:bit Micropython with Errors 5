@@ -6,7 +6,7 @@ deesplay.shw:(HAPPY)
 display.show(Image.HAPPY)
 
 ➡⫷5⫸
-Are there any mistakes in here?😕
+Are there any mistakes in here?😕🤨
 from microbit import *
 
 while True:
