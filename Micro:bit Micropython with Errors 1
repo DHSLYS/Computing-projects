@@ -19,8 +19,13 @@ display.show("boat")
 
 Please put the edited code 💻⌨ here:
 
-
-
+from microbit import*
+boat = Image ("0100100:
+               0530500:
+               0543050:
+               9990199:
+               0999480")
+display.show(boat)
 
 
 
