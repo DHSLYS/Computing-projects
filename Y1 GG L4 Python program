@@ -4,11 +4,8 @@ print()
 counter = 0
 score = 0
 total_num_of_qn = 3
-ps = str(round((score/total_num_of_qn*100),1))
-
 counter +=1
 tracker = 0
-
 while tracker !=1:
   
   print("Q"+str(counter)+") "+ "What should be filled in the blank?")
@@ -46,7 +43,7 @@ while tracker !=1:
 
   answer = input("Your answer: ")
   answer = answer.lower()
-  if answer == "Partially permeable":
+  if answer == "partially permeable":
     output = "That is correct!✓ Good job!"
     tracker =1
     score +=1
@@ -71,7 +68,7 @@ while tracker !=1:
   print("Answer in this format: name, group, period")
   answer = input("Your answer: ")
   answer = answer.lower()
-  if answer == "Potassium, 1, 4":
+  if answer == "potassium, 1, 4":
     output = "That is correct!✓ Good job!"
     tracker =1
     score +=1
@@ -87,11 +84,10 @@ while tracker !=1:
   print()
   print()
 
-if ps == 100:
+if score == 3:
   print("Well done! You scored 100% 🥳")
-if ps < 100 and ps > 49:
+if score == 2:
   print("Not bad. Try harder next time! 👏😃")
-else:
+if score == 1:
   print("Unfortunately, you failed this quiz. Revise your science and try again!🙂")
 print("End of quiz!")
-  
